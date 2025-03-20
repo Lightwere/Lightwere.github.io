@@ -8,7 +8,7 @@ const SVG_NAMESPACE_URI = "http://www.w3.org/2000/svg";
 const GAME_INFO = {
   BOARD_AREA: { SIZE: { X: 450, Y: 450 } },
   ELEMENT_AREA: { SIZE: { X: 450, Y: 100 } },
-  ALL_ELEMENT_AREA: { SIZE: { X: 450, Y: 240 } },
+  ALL_ELEMENT_AREA: { SIZE: { X: 450, Y: 320 } },
   GUIDE_LINE_WIDTH: { PRIMARY: 3, SECONDARY: 1 },
   BLOCK_SIZE_PX: 50,
   BOARD_SIZE_BLOCK: 9,
