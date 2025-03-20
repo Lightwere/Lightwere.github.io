@@ -577,7 +577,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L41: {
         KEY: 'ELEMENT_L41',
         OCCUPATION: 6,
         PATTERN: [
@@ -588,7 +588,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L42: {
         KEY: 'ELEMENT_L42',
         OCCUPATION: 6,
         PATTERN: [
@@ -599,7 +599,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L43: {
         KEY: 'ELEMENT_L43',
         OCCUPATION: 6,
         PATTERN: [
@@ -610,7 +610,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L44: {
         KEY: 'ELEMENT_L44',
         OCCUPATION: 6,
         PATTERN: [
@@ -621,7 +621,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L45: {
         KEY: 'ELEMENT_L45',
         OCCUPATION: 6,
         PATTERN: [
@@ -632,7 +632,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L46: {
         KEY: 'ELEMENT_L46',
         OCCUPATION: 7,
         PATTERN: [
@@ -643,7 +643,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L47: {
         KEY: 'ELEMENT_L47',
         OCCUPATION: 7,
         PATTERN: [
@@ -654,7 +654,7 @@ const ELEMENTS = {
             0, 0, 0, 0, 0
         ]
     },
-    ELEMENT_BUTTONR: {
+    ELEMENT_L48: {
         KEY: 'ELEMENT_L48',
         OCCUPATION: 7,
         PATTERN: [
